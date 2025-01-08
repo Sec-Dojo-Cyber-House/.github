@@ -1,51 +1,33 @@
-# CVE Hunters
-Vulnerability Research Group
+# **Sec Dojo Cyber House**
 
-![WhatsApp Image 2025-01-07 at 08 47 07](https://github.com/user-attachments/assets/85fbe5b9-4366-4708-9c62-d500882fb8f9)
+Bem-vindo ao **Sec Dojo Cyber House**! Somos uma comunidade de estudo e prática dedicada ao desenvolvimento de habilidades em **cibersegurança**. Nosso objetivo é fomentar o aprendizado contínuo e criar um ambiente colaborativo para compartilhar conhecimentos, explorar ferramentas e solucionar desafios reais.
 
-# Founder
+---
 
-[Natan Maia Morette](https://www.linkedin.com/in/nmmorette/)
+## **Missão**
+Promover o estudo e a prática da cibersegurança por meio de iniciativas colaborativas que abrangem desde a exploração de vulnerabilidades até o desenvolvimento de soluções inovadoras.
 
-# Active Contributors
+---
 
-[Angelo Morette](https://www.linkedin.com/in/angelo-morette-019/)
+## **Iniciativas**
+Nosso grupo está em constante evolução, e as iniciativas são criadas para atender diferentes áreas dentro do universo da cibersegurança. Aqui estão as categorias planejadas e em desenvolvimento:
 
-[Diego Cardoso](https://www.linkedin.com/in/diegocbcastro/)
+- **Bug Bounty:** Exploração de vulnerabilidades e práticas éticas de segurança.
+- **CTF (Capture The Flag):** Resolução de desafios técnicos em ambientes simulados.
+- **CVE Hunter:** Pesquisa e descoberta de vulnerabilidades (Atualmente em andamento).
+- **Desenvolvimento:** Criação de ferramentas e programas voltados à cibersegurança.
 
-[Elisangela Mendonça](https://www.linkedin.com/in/elisangelasilvademendonca/)
+---
 
-[Rafael Corvino](https://www.linkedin.com/in/rafael-corvino/)
+## **Iniciativa Ativa**
+### **CVE Hunter**
+Foco na identificação, análise e divulgação de **vulnerabilidades conhecidas** (Common Vulnerabilities and Exposures - CVE). Trabalhamos juntos para:
+- Explorar falhas em softwares e sistemas.
+- Contribuir com relatórios detalhados para a comunidade global de cibersegurança.
+- Aumentar o conhecimento prático e teórico sobre análise de vulnerabilidades.
 
-# Contributed projects
+---
 
-- [WeGIA](https://github.com/nilsonLazarin/WeGIA)
-- [Mautic](https://github.com/mautic/mautic)
-
-
-# Registered CVEs
-
-[CVE-2024-53470](https://www.cve.org/CVERecord?id=CVE-2024-53470),
-[CVE-2024-53471](https://www.cve.org/CVERecord?id=CVE-2024-53471),
-[CVE-2024-53472](https://www.cve.org/CVERecord?id=CVE-2024-53472),
-[CVE-2024-53473](https://www.cve.org/CVERecord?id=CVE-2024-53473),
-[CVE-2025-22132](https://www.cve.org/CVERecord?id=CVE-2025-22132),
-[CVE-2025-22133](https://www.cve.org/CVERecord?id=CVE-2025-22133),
-[CVE-2025-22139](https://www.cve.org/CVERecord?id=CVE-2025-22139),
-[CVE-2025-22140](https://www.cve.org/CVERecord?id=CVE-2025-22140),
-[CVE-2025-22141](https://www.cve.org/CVERecord?id=CVE-2025-22141),
-
-
-# Reported vulnerabilities
-
-| Tipo de Vulnerabilidade      | Quantidade |
-|------------------------------|------------|
-| XSS                          | 44         |
-| SQL Injection                | 5          |
-| Authentication Vulnerability | 2          |
-| CSRF                         | 1          |
-| RCE                          | 1          |
-
-
-
-
+## **Contato**
+Se você tiver dúvidas, sugestões ou quiser colaborar, nos encontre nos seguintes canais:
+- **Discord:** [Link para o servidor](https://discord.gg/xqXHJGan)
